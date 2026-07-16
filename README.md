@@ -38,4 +38,4 @@ variance rather than a repeatable player skill. Expect players who are very clut
 
 # Reproducibility
 All data is pulled programmatically using R.  
-Run scripts in numerical order to reproduce the analysis.
+Run `Clutch_season_to_season.R` end to end to reproduce the analysis and the figure.
