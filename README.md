@@ -21,7 +21,7 @@ I then construct player-year pairs and compute the year-to-year correlation of c
 values to assess stability.
 
 # Results
-- Year-to-year correlation of clutch: **r = 0.075**
+- Year-to-year correlation of clutch: **r = 0.075** (n = 2,384 player-season pairs)
 - Less than 1% of future clutch performance is explained by past clutch results
 
 ![Year-to-Year Clutch](figures/clutch_year_to_year.png)
